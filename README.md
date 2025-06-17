@@ -17,3 +17,7 @@
 - Link to poster walkthrough (audio)
 
 ## References
+
+## Acknowledgements
+AHB is funded through the [Norwich Research Park Doctoral Training Partnership](https://biodtp.norwichresearchpark.ac.uk/) (NRPDTP). Awarded via the BBSRC grant BB/T008717/1.
+
