@@ -14,7 +14,6 @@
 - Link to poster PDF
 - Link to poster walkthrough (written)
 - Link to poster walkthrough (video)
-- Link to poster walkthrough (audio)
 
 ## References
 
