@@ -9,6 +9,10 @@
 <sup>4</sup>Institute for Protein Design, University of Washington, Seattle, WA, United States of America.<br>
 <sup>5</sup>Norwich Institute for Sustainable Development, School of Global Development, University of East Anglia, Norwich, NR4 7TJ, United Kingdom.
 
+## Conference events
+The other half of this project is being led and presented by Dr. Yuxuan Xi. Check out his poster (P-193) in Poster Session 2 on Wesneday, 16 July.
+
+I'll be presenting both halves of this project during the Engineering Plant-microbe Traits concurrent session at 10:50 on Thursday 17 July.
 ## Resources
 - Link to abstract
 - Link to poster PDF
@@ -16,6 +20,7 @@
 - Link to poster walkthrough (video)
 
 ## References
+The QR code on the poster was generated via [Estee Tey's Mini QR](https://github.com/lyqht/mini-qr).
 
 ## Acknowledgements
 AHB is funded through the [Norwich Research Park Doctoral Training Partnership](https://biodtp.norwichresearchpark.ac.uk/) (NRPDTP). Awarded via the BBSRC grant BB/T008717/1.
