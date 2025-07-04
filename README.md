@@ -16,7 +16,7 @@ I'll be presenting both halves of this project during the Engineering Plant-micr
 ## Resources
 - [Link to abstract](abstract.md)
 - Link to poster PDF
-- Link to poster walkthrough (written)
+- [Link to poster walkthrough (written)](walkthrough.md)
 - Link to poster walkthrough (video)
 
 ## References
