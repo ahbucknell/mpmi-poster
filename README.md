@@ -14,7 +14,7 @@ The other half of this project is being led and presented by Dr. Yuxuan Xi. Chec
 
 I'll be presenting both halves of this project during the Engineering Plant-microbe Traits concurrent session at 10:50 on Thursday 17 July.
 ## Resources
-- Link to abstract
+- [Link to abstract](abstract.md)
 - Link to poster PDF
 - Link to poster walkthrough (written)
 - Link to poster walkthrough (video)
