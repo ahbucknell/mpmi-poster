@@ -13,7 +13,6 @@
 - [Link to abstract](abstract.md)
 - Link to poster PDF
 - [Link to poster walkthrough (written)](walkthrough.md)
-- Link to poster walkthrough (video)
 
 ## Conference events
 I'll be presenting this poster (P-427) during Poster Session 1 (13:30-15:15) on Monday, 14 July.
