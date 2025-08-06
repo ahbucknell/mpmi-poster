@@ -11,7 +11,7 @@
 
 ## Resources
 - [Link to abstract](abstract.md)
-- Link to poster PDF
+- [Link to poster PDF](https://doi.org/10.5281/zenodo.15880524)
 - [Link to poster walkthrough (written)](walkthrough.md)
 
 ## Conference events
